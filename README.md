@@ -8,7 +8,9 @@ Para desplegar este entorno:
   3. Dentro de la carpeta descargada: 
   
      $vagrant init BOX_NAME
+     
      $vagrant up
+     
      $vagrant ssh
   
 Con este último comando ya tendréis la máquina corriendo y con el LAMP instalado.
